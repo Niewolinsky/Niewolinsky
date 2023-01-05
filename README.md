@@ -1,4 +1,4 @@
-Learning web technologies.
+Learning the web.
 
 I have fundamental knowledge in following technologies:
 - Go (backend, cli), JavaScript/TypeScript (frontend web, backend), Python (data science) /languages
