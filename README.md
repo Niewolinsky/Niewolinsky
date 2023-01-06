@@ -9,3 +9,5 @@ I have fundamental knowledge in following technologies:
 - Docker, Task, Caddy /tools
 - Ubuntu, Arch Linux /os
 - Google Analytics & Ads /seo
+
+[Website (WIP)](niewolinsky.dev), [LinkedIn](https://www.linkedin.com/in/przemys%C5%82aw-niewoli%C5%84ski-847521245/), [Codewars](https://www.codewars.com/users/Niewolinsky)
