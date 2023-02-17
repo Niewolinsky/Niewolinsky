@@ -1,10 +1,9 @@
 Learning the web.
 
 I have fundamental knowledge in following technologies:
-- Go (backend, cli), JavaScript/TypeScript (frontend web, backend), Python (data science) /languages
-- Node, Deno /runtimes
-- Vue (nuxt), Astro /frontend libraries
-- Fastify /backend libraries
+- Go (backend, cli), JavaScript/TypeScript (frontend web, backend), Python (scripting) /languages
+- Fastify (Node) /backend libraries
+- Vue (Nuxt), Astro /frontend libraries
 - PostgreSQL, Redis, MongoDB /databases
 - Amazon AWS, DigitalOcean /cloud providers
 - Docker, Task, Caddy /tools
