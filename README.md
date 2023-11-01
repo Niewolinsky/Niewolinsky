@@ -1,12 +1,12 @@
 Learning the web.
 
 I have fundamental knowledge in following technologies:
-- Go (backend, cli), JavaScript/TypeScript (frontend web, backend), Bash (scripting) /languages
-- Express, Koa (Node) /backend libraries
-- Vue (Nuxt), Astro /frontend libraries
+- Go (backend, scripting, cli), JavaScript/TypeScript (frontend, backend), Bash (scripting) /languages
+- Express (Node), Chi (Go) /backend libraries
+- Vue (Nuxt), Tailwind /frontend libraries
 - PostgreSQL, Redis, MongoDB /databases
-- Amazon AWS, DigitalOcean /cloud providers
-- Docker, Task, Caddy /tools
+- Amazon AWS, Google Cloud, Cloudflare /cloud providers
+- Docker, Nginx, Caddy, Task /tools
 - Ubuntu Server, Arch Linux /os
 - Google Analytics, Ads & Search Console /seo
 
